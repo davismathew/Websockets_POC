@@ -1,0 +1,5 @@
+*.pyc
+local.py
+.idea/*
+.idea/
+db.sqlite3
